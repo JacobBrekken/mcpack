@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".nojekyll"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "README.md"
 hash = "8df4f7270b9be81d0a51053ca663ae5475b0f1618ec5ef77b479b6ca86fe3965"
 
@@ -16012,7 +16016,7 @@ metafile = true
 
 [[files]]
 file = "mods/structory-towers.pw.toml"
-hash = "0f4f506b1171a3a7d7b73150721075f5b1bc703c043fa539bcdd72c93e665b94"
+hash = "b8b20a009b194f1fdafb24d4c60c5588a5be8c81deab6eaa8168d8591621b0de"
 metafile = true
 
 [[files]]
