@@ -11,3 +11,8 @@ hash = "f82356c22b6a51e1b0423844b50819345ca36515566407f4f331622eb6559f02a08383b2
 [update.modrinth]
 mod-id = "SA6T5rtS"
 version = "GFsxN2He"
+
+[option]
+optional = true
+default = false
+description = "Extra visual polish — costs some FPS."
