@@ -14546,7 +14546,7 @@ metafile = true
 
 [[files]]
 file = "mods/dont-punch-my-tacz.pw.toml"
-hash = "cebe2104e915725019bb97661e071dbeea88a36f6964c903749158d5cc761ceb"
+hash = "9169b784e64161d5c22bd40565b1d176ca7518e37dd35fa3ef939f61b2834cc7"
 metafile = true
 
 [[files]]
@@ -15897,6 +15897,11 @@ metafile = true
 [[files]]
 file = "mods/puddles-floods.pw.toml"
 hash = "2f1ad71531f9ce689aa536d9bd500253e8b7af9c8dee80f5f59800bdd6ecabd0"
+metafile = true
+
+[[files]]
+file = "mods/punchy-fpa.pw.toml"
+hash = "5e16706d7292695c76d67bceaa9e75b4dde904d1f642b31d4ad17b63f1b0781e"
 metafile = true
 
 [[files]]
