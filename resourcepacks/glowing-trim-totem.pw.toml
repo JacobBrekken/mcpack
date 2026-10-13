@@ -11,3 +11,8 @@ hash = "b7ea850152f38ce09166a2cc6397e6a4740835a7f97e3719bad4839e51de5eae0c9bc85e
 [update.modrinth]
 mod-id = "LbnI28Gx"
 version = "P6wmvrPf"
+
+[option]
+optional = true
+default = false
+description = "Extra visual polish — costs some FPS."
