@@ -14545,6 +14545,11 @@ hash = "d46331e2fffde2c3c2a952575e61827fb67ecbc200a030649bf3e08ad637c049"
 metafile = true
 
 [[files]]
+file = "mods/dont-punch-my-tacz.pw.toml"
+hash = "cebe2104e915725019bb97661e071dbeea88a36f6964c903749158d5cc761ceb"
+metafile = true
+
+[[files]]
 file = "mods/draconic-evolution.pw.toml"
 hash = "5b4d79435b6c6307cdcb141561b46a536fcf317a5661dbcafe33dfcde3cfe80f"
 metafile = true
@@ -15892,6 +15897,11 @@ metafile = true
 [[files]]
 file = "mods/puddles-floods.pw.toml"
 hash = "2f1ad71531f9ce689aa536d9bd500253e8b7af9c8dee80f5f59800bdd6ecabd0"
+metafile = true
+
+[[files]]
+file = "mods/punchy.pw.toml"
+hash = "6711095dbe8a017e67b181ef3c6a045301e2d07c1f19085b6ea56f81f588534d"
 metafile = true
 
 [[files]]
