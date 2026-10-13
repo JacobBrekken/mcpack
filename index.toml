@@ -14476,7 +14476,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "6b6683fd8ec53d10d4fbef3b3d53922a1aaa8ef4d2e4b52bb819dc451f5d6b3d"
+hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
@@ -15160,13 +15160,33 @@ hash = "0f04f325e69159d49ef7ad0593d9fa2caaca3825bc519b3d54c253bfcb0ae435"
 metafile = true
 
 [[files]]
+file = "mods/lets-do-addon-compat.pw.toml"
+hash = "50fcf316da46ab40812b30013f8427614c41e5778509ed117dcb304c31fc9169"
+metafile = true
+
+[[files]]
 file = "mods/lets-do-bakery-farmcharm-compat.pw.toml"
 hash = "273f010f82cb58da5d8c24a05fe1c0c526933975fb1fe9bdf315ff573e0a3975"
 metafile = true
 
 [[files]]
+file = "mods/lets-do-beachparty.pw.toml"
+hash = "fd2a321d4abc440ff159e477dc75ebc9d32a9efa246e61ceeb6142391c55bfcf"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-bloomingnature.pw.toml"
+hash = "6fa0658b2636880e6821b4120d9d68cb0e16410f2f492179c775fbfd527338d2"
+metafile = true
+
+[[files]]
 file = "mods/lets-do-brewery-farmcharm-compat.pw.toml"
 hash = "37268a0aab968587ecd7a4edda7fb9b2485b7c8c7cd528abcf62d0ecd4c79069"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-camping.pw.toml"
+hash = "f9cb465e12267cf3262edf9d04f2539e9484cf8ec40b94487349688ea01dd140"
 metafile = true
 
 [[files]]
@@ -15177,6 +15197,31 @@ metafile = true
 [[files]]
 file = "mods/lets-do-farm-charm.pw.toml"
 hash = "1bca5b3f3aa3961a756bebec6a7813020924fe4cc0edc5126d323189b823b37a"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-furniture.pw.toml"
+hash = "067768cb3b6ba1b79e54559cd697ac8b9a198d33db03f2b0c2001df68dce94cf"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-herbalbrews.pw.toml"
+hash = "4b9615192f59c2c77291e11c1fba829d94866758816424c8c3ac072d89c875bc"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-meadow.pw.toml"
+hash = "63a69b848a563a03c9f773a0d742b258e35f93a0568a5da44d53292fd3013da4"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-vinery.pw.toml"
+hash = "e3a930cbb3af5418152f2146a64a4ef2137796a7676c0bf100aed96ffd2f1ed8"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-wildernature.pw.toml"
+hash = "4bde87551ece67ae8aed21349a18699dd2c600274d836266d08d16ff83cc34c9"
 metafile = true
 
 [[files]]
