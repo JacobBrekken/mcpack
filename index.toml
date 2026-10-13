@@ -14780,6 +14780,11 @@ hash = "d7343664280e8b3d1c96f9a6726caf2d25376fd7e378fdfc47a0be9bccde3a3c"
 metafile = true
 
 [[files]]
+file = "mods/forgematica.pw.toml"
+hash = "451c96f6fc12e0af29ddb579b69aa085420e638b23bbf24526997e9c7fb69dc7"
+metafile = true
+
+[[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "c490f7b680875f034af39a1556911d6edb1dcdd76a114ee6a4eca0f158cd92b2"
 metafile = true
@@ -15020,6 +15025,11 @@ hash = "901106fc6fcb4dcb86c13dd8c1dfb0d26e048387fec5bd610d06082242bd786a"
 metafile = true
 
 [[files]]
+file = "mods/immersive-ui.pw.toml"
+hash = "4a5e7ba2003a7c5df99905c4952c43e011f7b29a7fad9e20457a76a72e92fde2"
+metafile = true
+
+[[files]]
 file = "mods/in-control.pw.toml"
 hash = "5aedbe06cda7659f0d37cbfe79f6e35b0d64ee327aff40c9c1fb132604132972"
 metafile = true
@@ -15215,6 +15225,11 @@ hash = "17b5bef818ac8c504958db422aba2f1cc79979da41a71b0ecb793f85accf30df"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "e101242a69a9d82411e5e51fe879a0e6ebeaf39618eeb75c0e64dccc8111ca85"
+metafile = true
+
+[[files]]
 file = "mods/laser-bridges-doors.pw.toml"
 hash = "6af296ff78973fdf2271077b82fcde1c177cec67a2c5c98c5dc3a23cb56c05e0"
 metafile = true
@@ -15387,6 +15402,11 @@ metafile = true
 [[files]]
 file = "mods/macaws-windows.pw.toml"
 hash = "85b0bb55b80d196b879fe6755cd7cc509f6ecd5706bb25acd43826da5335dd57"
+metafile = true
+
+[[files]]
+file = "mods/mafglib.pw.toml"
+hash = "2726c6991c3cc6ee3644725fd98759b6d8b2cfd96d0fcb7ad8e266924f741f52"
 metafile = true
 
 [[files]]
@@ -15775,6 +15795,11 @@ hash = "d48697a0d75267fe97428fa6b8442ec419846d7396e2dc9b4dd2c90e13f17daa"
 metafile = true
 
 [[files]]
+file = "mods/particle-rain.pw.toml"
+hash = "0036fedda388192221893df1b2e5c1e23af000f98c52fea383e6d2d1e85a3bcd"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "3718e8a37d0dc2939cc350cce74bcb9c36b59f48baf4560e62804f7ca6478185"
 metafile = true
@@ -16061,7 +16086,7 @@ metafile = true
 
 [[files]]
 file = "mods/shatterbyte-lib.pw.toml"
-hash = "4f38a1932a493c7b100f13356c65bf1cc4d43e4cb3430d428202452d1d5800a0"
+hash = "3f552bbdc42f07fd7d5695ced1d27d774af63cff5460be45817939e5f8e4f9de"
 metafile = true
 
 [[files]]
