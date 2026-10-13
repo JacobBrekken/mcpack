@@ -11,3 +11,8 @@ hash = "5e1085f8039b9e42ce9a11ce3bdfc668e14f86b7b8240940cc4c922640af1dcf0c294a2a
 [update.modrinth]
 mod-id = "3jCB9cn2"
 version = "hWKkBn3u"
+
+[option]
+optional = true
+default = false
+description = "Extra visual polish — costs some FPS."
