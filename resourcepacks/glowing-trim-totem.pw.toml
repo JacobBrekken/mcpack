@@ -1,0 +1,13 @@
+name = "Glowing Trim Totem"
+filename = "Glowing Trim Totem[MG-5.0][1.21.0-1.21.1].zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LbnI28Gx/versions/P6wmvrPf/Glowing%20Trim%20Totem%5BMG-5.0%5D%5B1.21.0-1.21.1%5D.zip"
+hash-format = "sha512"
+hash = "b7ea850152f38ce09166a2cc6397e6a4740835a7f97e3719bad4839e51de5eae0c9bc85ea6719fcc15f221febd98b153d35f5373e801d1b93c310399adcc4fcc"
+
+[update]
+[update.modrinth]
+mod-id = "LbnI28Gx"
+version = "P6wmvrPf"

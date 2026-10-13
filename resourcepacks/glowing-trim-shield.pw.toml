@@ -1,0 +1,13 @@
+name = "Glowing Trim Shield"
+filename = "Glowing Trim Shield[MG-5.0][1.21.0-1.21.1].zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VWMioOvK/versions/XYh6PWSQ/Glowing%20Trim%20Shield%5BMG-5.0%5D%5B1.21.0-1.21.1%5D.zip"
+hash-format = "sha512"
+hash = "536d7930fa84693b120ca6085cfb55410ef900add1aa0144c5451ac4c723e535a81fa7408efba00bbdef71f697e967ff4cdfd08bacc1d755264204248541f203"
+
+[update]
+[update.modrinth]
+mod-id = "VWMioOvK"
+version = "XYh6PWSQ"
