@@ -123,9 +123,12 @@ Don't reinstall — it almost never helps and you'll lose your settings.
 
 ## Good to know
 
-**There's a world border** about 2,900 blocks out from spawn in every direction. You'll hit an
+**There's a world border** about 4,900 blocks out from spawn in every direction. You'll hit an
 invisible wall. That's deliberate — everything inside it is pre-generated so nobody gets lag
 from new terrain loading. It's plenty of room, and it can be pushed out later if we need it.
+
+The Nether has its own border at 650 blocks. That sounds small, but Nether travel covers eight
+times the distance — 650 there lines up with the overworld border.
 
 **The world is backed up daily.** If something gets griefed or a base gets eaten by a bug, it's
 recoverable. Tell Jacob sooner rather than later — backups only go back a few days.
