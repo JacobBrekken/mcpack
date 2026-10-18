@@ -1,0 +1,13 @@
+name = "Fresh Music Discs"
+filename = "Fresh Music Discs 1.2.1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qdNj7A1T/versions/ysr1syLC/Fresh%20Music%20Discs%201.2.1.zip"
+hash-format = "sha512"
+hash = "af26df5ea1ce15c8d07ab02bec84f091271da1ab75f82ab1665b799aac446f2c4309498067267aed427ce5777ed4fd5f9f30874e4034c8c49f6314c77ac46521"
+
+[update]
+[update.modrinth]
+mod-id = "qdNj7A1T"
+version = "ysr1syLC"

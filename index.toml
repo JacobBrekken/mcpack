@@ -14111,7 +14111,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "48ccf754257a1d140c12e4cee3bd7901392023fcd5a3fc961b7275448459fe73"
+hash = "603cdc47142b5aa5729cbbf265a473574c9e2b55561de4318e9842d3d4b3b995"
 metafile = true
 
 [[files]]
@@ -14520,6 +14520,11 @@ hash = "ebb3df18070c94169933965dc6ef11ea68adb2b362623417e6b129f0af9a1bbe"
 metafile = true
 
 [[files]]
+file = "mods/default-options.pw.toml"
+hash = "a6967d761dde867ccc1af53dc9f4e530eb9917a9cb21d0fc15708e8cd2c0f2ba"
+metafile = true
+
+[[files]]
 file = "mods/deimos-fabric-forge-neoforge.pw.toml"
 hash = "ff4171ef297c7296a7c878d5c79806848d083f37e6a39da3677b32a20b598476"
 metafile = true
@@ -14647,6 +14652,11 @@ metafile = true
 [[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "b5b7ed70211e25720af3623661c420205f5aafcace610909b906188c40a569a2"
+metafile = true
+
+[[files]]
+file = "mods/entity-pin-cushions.pw.toml"
+hash = "bd5853500d0afb5d7b66abb26788c2b4193448bcf3029f367dd63742e7603a5b"
 metafile = true
 
 [[files]]
@@ -15547,6 +15557,11 @@ metafile = true
 [[files]]
 file = "mods/mob-grinding-utils.pw.toml"
 hash = "ed334bd8ff25757d72ac569a854f0a846b786d7704c2c36ebd95c00b97c7a6fe"
+metafile = true
+
+[[files]]
+file = "mods/modefite-item-definition-backport.pw.toml"
+hash = "d5e22fe1cacf92f856df16785fd07587ec709b238aca42c91405ff91aa0bed6d"
 metafile = true
 
 [[files]]
@@ -16595,6 +16610,61 @@ hash = "f60046584d023aaa0af0e8a1f3f021acb13121f2130f7c66b85e704da4d72643"
 metafile = true
 
 [[files]]
+file = "resourcepacks/artifacts-3d.pw.toml"
+hash = "aa77d1fe52ea796a51321d0926adcfbe7ba8a8d3729833c751fa91c11ce0efc8"
+metafile = true
+
+[[files]]
+file = "resourcepacks/bens-bundles.pw.toml"
+hash = "76c75f06b23056e1d1572759a05db19766412938e051f84cc128e05a17e2d2f9"
+metafile = true
+
+[[files]]
+file = "resourcepacks/brays-better-3d-bow.pw.toml"
+hash = "5cfb03b12add0aaa3444c6b82d6f8c9db4894bef80e7416f7abc19388a165b78"
+metafile = true
+
+[[files]]
+file = "resourcepacks/drigo-3d-lanterns-x-punchy.pw.toml"
+hash = "b76db6ae5b94ad509c10165373bd1e98220b4fd5bb838eddcad700a1bae5fea4"
+metafile = true
+
+[[files]]
+file = "resourcepacks/drodi-extendo-grip.pw.toml"
+hash = "9d9fbd742aad28a58c7311d449a5327ea9e2d2bff5ef7c694990ffcae68ca245"
+metafile = true
+
+[[files]]
+file = "resourcepacks/drodis-arsenal.pw.toml"
+hash = "ad9ce28d1dc63c045135265a57c90480daadff82da4da9dc4c36ff732b8cf743"
+metafile = true
+
+[[files]]
+file = "resourcepacks/drodis-shield.pw.toml"
+hash = "688c63624cee0cbfef31b89ebcdf6178691a08e70745e7751b44d7db059f8c80"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-food-punchy-fix.pw.toml"
+hash = "d72f88a2bfd11abb9df20adbd9f5d537db9f1576c70ab2ddc47e54aafc53d3c4"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-food.pw.toml"
+hash = "994220e42be5e64f925c753c660ce9c7cbaf1d6059428fd7f664ce8feca659c5"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-music-discs.pw.toml"
+hash = "167326fb441ba20af15749b7880996ae5d2ad4e0f9f7ac1ebd8cc8d1cade8695"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fyoncles-3d-trims.pw.toml"
+hash = "7c9ac03258e3cc2811c31c05ea0694c5f5ab818f082c8fc03a05cb6642349bec"
+metafile = true
+
+[[files]]
 file = "resourcepacks/glowing-trim-elytra.pw.toml"
 hash = "dd6a905a3642936e41a1e09c358e025ec4d500e0dcc023431d64dcd20a07a135"
 metafile = true
@@ -16617,6 +16687,56 @@ metafile = true
 [[files]]
 file = "resourcepacks/glowing-weapon-tools.pw.toml"
 hash = "1a274c456c840e005fd2c35afd95f4185f498d2667d65e4b8e9091f2044f40be"
+metafile = true
+
+[[files]]
+file = "resourcepacks/hyper-punchy.pw.toml"
+hash = "256ad012f8f0dfac102b46dae47d2cf14185b6a866578692f8f6e96b95364019"
+metafile = true
+
+[[files]]
+file = "resourcepacks/just-3d-potions-punchy-1.21-backport.pw.toml"
+hash = "021ae438967967d660eea8f341c81d3b59dd88d49769a1e68c4136bd42f4701d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mace-fusion.pw.toml"
+hash = "e2d2197d383dc7bdfba1225f36974d3ce4c7aaf4664b8383ba010d011440dd89"
+metafile = true
+
+[[files]]
+file = "resourcepacks/punchy-compatibility.pw.toml"
+hash = "007ba812a87c592d544d802a364eae07dea97714af47adcbaf6af050e62582ad"
+metafile = true
+
+[[files]]
+file = "resourcepacks/refined-buckets.pw.toml"
+hash = "96e1f49469e305dd51e0d58cd618c0ae2cdffc36a72ee5bee3231d56947614e6"
+metafile = true
+
+[[files]]
+file = "resourcepacks/refined-reate-buckets.pw.toml"
+hash = "59cb981d7fae1af5a5d54c3ddd809c8ae3dad219324dc0d7239ac9cc014d4a0b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/refined-torches.pw.toml"
+hash = "93224d8f3ca6f6c48bce218a75e7219a57b963102dee538047501ba4cb83731e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/trabens-3d-arrow-models.pw.toml"
+hash = "a65e4a763a55ac047d72a0bfd89cc39376b9d489e6f6a50c9444f48008f05701"
+metafile = true
+
+[[files]]
+file = "resourcepacks/trident-fusion.pw.toml"
+hash = "8ede1207456612088882b67e67266c4c6cb53eac4461d7af984e4a56cbe4adc4"
+metafile = true
+
+[[files]]
+file = "resourcepacks/untitled-punchies.pw.toml"
+hash = "086b9275325a9a1fd6897d03ff42d54c5862bf6309d1e979e180c9662c058824"
 metafile = true
 
 [[files]]

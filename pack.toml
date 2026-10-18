@@ -6,7 +6,11 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
+<<<<<<< HEAD
 hash = "e5ce27fb6e9f2a8b7164d4ff28150d3ab4f666f20909bbeec73736cc53418744"
+=======
+hash = "3ab132ca766204ed9fe6ca664dc25482d69d3de7e8d778155ce388fa1cbc58c8"
+>>>>>>> 2a72d86 (add punchy addons and 3d item packs)
 
 [versions]
 minecraft = "1.21.1"

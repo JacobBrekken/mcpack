@@ -1,0 +1,13 @@
+name = "Artifacts 3D"
+filename = "Artifacts 3D.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/x70SGc9M/versions/kYgAZhY6/Artifacts%203D.zip"
+hash-format = "sha512"
+hash = "770f21176d6057d93703a9406e7170e8193f70a8c4ca695787a7a3ee028513c5ef241526765a75c33b0ca4af64fc5a1dc4d022cb495c5801d862cc5581faa08b"
+
+[update]
+[update.modrinth]
+mod-id = "x70SGc9M"
+version = "kYgAZhY6"

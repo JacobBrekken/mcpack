@@ -1,0 +1,13 @@
+name = "Drodi's Arsenal"
+filename = "§9Drodi's Arsenal [V1.4.1].zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ct7QzfJu/versions/PtaSM7OA/%C2%A79Drodi%27s%20Arsenal%20%5BV1.4.1%5D.zip"
+hash-format = "sha512"
+hash = "9ee47423054c9571e413e743a0dbabd4d388a95db58f063fbc263c77010ba244c1a93073549f62083d656761ee25f1786fd49b127783f3451ba124bff168ae8f"
+
+[update]
+[update.modrinth]
+mod-id = "ct7QzfJu"
+version = "PtaSM7OA"
