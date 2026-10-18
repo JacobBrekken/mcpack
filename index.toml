@@ -6,7 +6,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "README.md"
-hash = "988ebec8a09ca43210df54701665def33f5ab17865db9d29649e60209acb62cb"
+hash = "03dd21d562b89c2d17c89cb7ee3d60f489340639394cc043fa1faad000bd6e2f"
 
 [[files]]
 file = "bsl-shaders.pw.toml"
