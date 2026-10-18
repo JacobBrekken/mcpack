@@ -1,0 +1,13 @@
+name = "Custom Glow Enchantment Outline"
+filename = "custom-glow-enchantment-outline-neoforge-1.21.1-1.2.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Q2rI8IqW/versions/93ZMCKHs/custom-glow-enchantment-outline-neoforge-1.21.1-1.2.3.jar"
+hash-format = "sha512"
+hash = "7ec51f52069d7ef6583543b824d1eda107532a0d779721df118d2b4e595bc6602652c9abf76e205dedbf583ccd74771af9422e16341139b790157c40193a5f2d"
+
+[update]
+[update.modrinth]
+mod-id = "Q2rI8IqW"
+version = "93ZMCKHs"

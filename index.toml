@@ -14500,6 +14500,11 @@ hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
+file = "mods/custom-glow-enchantment-outline.pw.toml"
+hash = "e4ffc345b69617430904ed91a0b9ca0eccac3c41c3f7e038b55335faaceb78d8"
+metafile = true
+
+[[files]]
 file = "mods/cyclops-core.pw.toml"
 hash = "7fc9c417a6f55d7383fcb5deefd38cadcaecee0059c509a83d9ed88d2e18b2a6"
 metafile = true
@@ -14642,6 +14647,11 @@ metafile = true
 [[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "b5b7ed70211e25720af3623661c420205f5aafcace610909b906188c40a569a2"
+metafile = true
+
+[[files]]
+file = "mods/entity-player-compat.pw.toml"
+hash = "9f8ea0a0744502d4aa4c8f48c6e8e555a34f301dcbbdca3b1297ae879356eb0f"
 metafile = true
 
 [[files]]
@@ -15640,6 +15650,11 @@ hash = "02aa4dcb8fa24cffcd2182c66683c2a476a95abf53002373f953a49737a587e3"
 metafile = true
 
 [[files]]
+file = "mods/mru.pw.toml"
+hash = "f12ee0c88176e66a61de272f1be98077a86560c199903514de7657564130c34f"
+metafile = true
+
+[[files]]
 file = "mods/mss-moogs-soaring-structures.pw.toml"
 hash = "4f77015c44bbe02d09caf350032a62b576af103edc0efa56bee2868fc2639eb4"
 metafile = true
@@ -15826,7 +15841,7 @@ metafile = true
 
 [[files]]
 file = "mods/playeranimator.pw.toml"
-hash = "5b30dafc9e96471978376ee010cec0ddf592377ac94192c9370cb37973e1e95f"
+hash = "93284ca7f2f23f0bb76d42b797cabf2aea1914ee9825bec82bf6ffe4c60dda0d"
 metafile = true
 
 [[files]]
@@ -16217,6 +16232,11 @@ metafile = true
 [[files]]
 file = "mods/soulplied-energistics.pw.toml"
 hash = "e342fd17fd38de4d0367e8d6b308df7b113e3a8d0d01e0b55048e53ee0177a8a"
+metafile = true
+
+[[files]]
+file = "mods/sound.pw.toml"
+hash = "4063a3c0f2f9a6544a870f0b90679441d7333652875dafbe3db255fc67f72c82"
 metafile = true
 
 [[files]]
