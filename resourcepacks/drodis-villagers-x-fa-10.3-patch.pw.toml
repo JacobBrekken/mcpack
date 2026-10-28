@@ -1,0 +1,13 @@
+name = "Drodi's Villagers X FA (FA 10.X Patch)"
+filename = "DrodisVillagers x FA(FA10.X-Patch).zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Kx5w5XQ5/versions/qFvhHCYN/DrodisVillagers%20x%20FA%28FA10.X-Patch%29.zip"
+hash-format = "sha512"
+hash = "3aa5e2276f99ea0b81fc085dc2a814e706e3a6dd2e76d2c924463fe16640ddd1e198aee9447afac6bf02a24512de5ae42bb8bc6dba920d82987d8fbbae8b3caf"
+
+[update]
+[update.modrinth]
+mod-id = "Kx5w5XQ5"
+version = "qFvhHCYN"

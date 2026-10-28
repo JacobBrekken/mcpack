@@ -1,0 +1,13 @@
+name = "3D Harnesses"
+filename = "3D Harnesses.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Db2xlR4b/versions/6VR3VvdA/3D%20Harnesses.zip"
+hash-format = "sha512"
+hash = "1e6af02d81049bc1f99f94e967ec84a40299496c7e54fd709f166a0571363aeac8295b5700e76ec5d0427103d0695ff3d5dfb57a0a95798110a3c116b66f57f4"
+
+[update]
+[update.modrinth]
+mod-id = "Db2xlR4b"
+version = "6VR3VvdA"

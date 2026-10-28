@@ -1,0 +1,13 @@
+name = "Prettier Horses x Fresh Animations"
+filename = "Prettier-Horses-1.4.1(Fresh-Animations).zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ov4CTV3r/versions/7bZx5YwB/Prettier-Horses-1.4.1%28Fresh-Animations%29.zip"
+hash-format = "sha512"
+hash = "b1dc5c447edbd23c548f375adcdc6b1d40d9936a09ba84e051a509cff1310d4fff78ce0b5d5b85c52b5d8621ee923d844f139cbcb360bfc18a6ea191f7de39d7"
+
+[update]
+[update.modrinth]
+mod-id = "Ov4CTV3r"
+version = "7bZx5YwB"

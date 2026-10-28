@@ -1,0 +1,13 @@
+name = "Bray's Llamas With Hats"
+filename = "Brays Llamas With Hats v1.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8Lk42Sfe/versions/4VzpChf4/Brays%20Llamas%20With%20Hats%20v1.0.zip"
+hash-format = "sha512"
+hash = "dc5b9180c9836d6f4a9623dc539edbe64a417566851ab971f584399efc1c46fc85cf5039e25bd36cb77c39a386c5fe75ecafcc9c3c2656c50153ca9fb9a074aa"
+
+[update]
+[update.modrinth]
+mod-id = "8Lk42Sfe"
+version = "4VzpChf4"

@@ -16605,6 +16605,16 @@ hash = "f60046584d023aaa0af0e8a1f3f021acb13121f2130f7c66b85e704da4d72643"
 metafile = true
 
 [[files]]
+file = "resourcepacks/3d-harnesses-x-fresh-animations.pw.toml"
+hash = "669005dbb32780ba0b318b276b03664fa1840ca6431c7629f96945c2ce8dcf99"
+metafile = true
+
+[[files]]
+file = "resourcepacks/3d-harnesses.pw.toml"
+hash = "a9cf5e70e5d48ce61232a1b9ee2951976676c002de9c9f0852c5a5bf48eaf972"
+metafile = true
+
+[[files]]
 file = "resourcepacks/artifacts-3d.pw.toml"
 hash = "aa77d1fe52ea796a51321d0926adcfbe7ba8a8d3729833c751fa91c11ce0efc8"
 metafile = true
@@ -16617,6 +16627,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/brays-better-3d-bow.pw.toml"
 hash = "5cfb03b12add0aaa3444c6b82d6f8c9db4894bef80e7416f7abc19388a165b78"
+metafile = true
+
+[[files]]
+file = "resourcepacks/brays-llamas-with-hats.pw.toml"
+hash = "4246b461bacf459f994f6aebde9ae59576a5456183bf998ded04a46c1e34aa34"
 metafile = true
 
 [[files]]
@@ -16637,6 +16652,66 @@ metafile = true
 [[files]]
 file = "resourcepacks/drodis-shield.pw.toml"
 hash = "688c63624cee0cbfef31b89ebcdf6178691a08e70745e7751b44d7db059f8c80"
+metafile = true
+
+[[files]]
+file = "resourcepacks/drodis-villagers-x-fa-10.3-patch.pw.toml"
+hash = "265ca5b3fd3f02b1845d9f07d3b4404fa2f8053627082e39dc8518414886b360"
+metafile = true
+
+[[files]]
+file = "resourcepacks/enhanced-shulkers-x-fresh-animations.pw.toml"
+hash = "13bb8934deffbe5751763596341aa3ef5d47eef52db878938af1742e55226de2"
+metafile = true
+
+[[files]]
+file = "resourcepacks/enhanced-shulkerss.pw.toml"
+hash = "58697b084ae793d6d3c57b83c523f30b9cf80ee808b4fee926314fa2fd6a7cd5"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fa-player-extension-plusjust-expressions.pw.toml"
+hash = "dfe3745c348073333f5b245c2df48121af352765217e6c11fd1b6f02e341fcf5"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fa-player-extension.pw.toml"
+hash = "b10943dd0c7472c8782d27e1239a851dfa41ee21608dff9207b84c0a81b56e20"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations-details.pw.toml"
+hash = "fb04a1326015ee6de9994567c6500343b62079324dafd44b8b346a8bc2a49ec3"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations-emissive.pw.toml"
+hash = "e9b6c2451f8c6f0a767d826c7646c97e62778bf3852443d7f33044b54d547e6b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations-extensions.pw.toml"
+hash = "9fd64cf209789e2451d0d7707a4b87fe0c787e74eb31ce79ed94f4a30849c05d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations-objects.pw.toml"
+hash = "7db9ed4e604bca862bceb6e01426f024fc64d2766c18a9e1401269bda89bb38c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations-quivers.pw.toml"
+hash = "94abb56605bbc824a3605f911e2c71640925a2d1d358ed0cdfe850fc57fbccc7"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations-spiders.pw.toml"
+hash = "621b736daf967878ac7272e8fc6941f964029916b74a2d15b7573453c607cb6d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "9dc9b1568b6eaa48e16455e2a119566aa0e1c0e6f3e71099b97c535a73d0cd84"
 metafile = true
 
 [[files]]
@@ -16685,6 +16760,16 @@ hash = "1a274c456c840e005fd2c35afd95f4185f498d2667d65e4b8e9091f2044f40be"
 metafile = true
 
 [[files]]
+file = "resourcepacks/golems-refreshed-plus-fresh-animations.pw.toml"
+hash = "a6fb5fc208ac2355ed732a7a91df0101bfdfeb6cd76dc7486d8a6aaa72fc5bb4"
+metafile = true
+
+[[files]]
+file = "resourcepacks/golems-refreshed.pw.toml"
+hash = "10a53435e52c957ae08d0d144c9ddd8f52c150bd988de3abe47fd33da46a17c9"
+metafile = true
+
+[[files]]
 file = "resourcepacks/hyper-punchy.pw.toml"
 hash = "256ad012f8f0dfac102b46dae47d2cf14185b6a866578692f8f6e96b95364019"
 metafile = true
@@ -16697,6 +16782,26 @@ metafile = true
 [[files]]
 file = "resourcepacks/mace-fusion.pw.toml"
 hash = "e2d2197d383dc7bdfba1225f36974d3ce4c7aaf4664b8383ba010d011440dd89"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mobs-refreshed-plus-fresh-animations.pw.toml"
+hash = "600dfde643ec75722db3131049027d29fb724bb2357fc60e033774942939b71b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mobs-refreshed.pw.toml"
+hash = "cb87667a58ec872950ea0c3abde8598f78961d85c17b0cdf7d12908073708769"
+metafile = true
+
+[[files]]
+file = "resourcepacks/prettier-horses-x-fresh-animations.pw.toml"
+hash = "6e11c96769461af6e9df369cfeae43ea7bb72eb9e222cdb0aa0dc282d7a3bf9e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/prettier-horses.pw.toml"
+hash = "ef6db45056ea32119e5d86a682ee2e1c2fd72395579ced120a81e6a35401b445"
 metafile = true
 
 [[files]]
@@ -16717,6 +16822,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/refined-torches.pw.toml"
 hash = "93224d8f3ca6f6c48bce218a75e7219a57b963102dee538047501ba4cb83731e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/tears-and-cheers.pw.toml"
+hash = "0f4cf6b37d81b1c7565425fede80af708a31c310a76452f1b8dd4afed92a9e45"
 metafile = true
 
 [[files]]

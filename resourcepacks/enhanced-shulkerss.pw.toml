@@ -1,0 +1,13 @@
+name = "Enhanced Shulkers"
+filename = "Enhanced Shulkers.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AlzyocIx/versions/3XZSw0Ih/Enhanced%20Shulkers.zip"
+hash-format = "sha512"
+hash = "9ed645e518edfa86f9ed6e20b9cc3e4afd69051aa09cedf2f6d34efac11b89d202f632d2ead14f937c4f66f66a8103f30430efac967e778c5c7df5a45e07cd86"
+
+[update]
+[update.modrinth]
+mod-id = "AlzyocIx"
+version = "3XZSw0Ih"
