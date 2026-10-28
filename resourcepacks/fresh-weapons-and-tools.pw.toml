@@ -1,0 +1,13 @@
+name = "Fresh Weapons & Tools"
+filename = "§3Fresh §bWeapons & Tools.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sNfe5Lxl/versions/dBZoguyi/%C2%A73Fresh%20%C2%A7bWeapons%20%26%20Tools.zip"
+hash-format = "sha512"
+hash = "ebb22dcfa1f65ab9dea15d21c6343bfef15467e0f75e5d873e6dc4ecf482cc75f33541c1366f17fdb8d2d8ffcba68669f3c96d754b867e568583780dd25bb1e5"
+
+[update]
+[update.modrinth]
+mod-id = "sNfe5Lxl"
+version = "dBZoguyi"

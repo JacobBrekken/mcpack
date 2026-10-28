@@ -1,0 +1,13 @@
+name = "Dreamy Clouds"
+filename = "§b§lDreamy Clouds [1.20.5–1.21.1].zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7u5juaxE/versions/LBRjbn5n/%C2%A7b%C2%A7lDreamy%20Clouds%20%5B1.20.5%E2%80%931.21.1%5D.zip"
+hash-format = "sha512"
+hash = "16a422ecb426a4f048ab1d4fe37ad967a5f1e1cde2656c31d4197da83eedae4b667c63044846a68cf2d39139b7432f96b3a7d43497dcfcebe63f7bfd04e04c8a"
+
+[update]
+[update.modrinth]
+mod-id = "7u5juaxE"
+version = "LBRjbn5n"

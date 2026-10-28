@@ -1,0 +1,13 @@
+name = "XP Orbs Reworked"
+filename = "xp-orbs-reworked-1.21&1.21.1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uRqTctDY/versions/W0LmZlc9/xp-orbs-reworked-1.21%261.21.1.zip"
+hash-format = "sha512"
+hash = "33c614c2016ca44d1c4c1f982410d3161553d1e54a895f223d41974c181f053c8286357475c630272d484346f2c8a203ec4da127048ccc225d2ebcb9c7368896"
+
+[update]
+[update.modrinth]
+mod-id = "uRqTctDY"
+version = "W0LmZlc9"

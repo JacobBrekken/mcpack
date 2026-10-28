@@ -16605,6 +16605,11 @@ hash = "f60046584d023aaa0af0e8a1f3f021acb13121f2130f7c66b85e704da4d72643"
 metafile = true
 
 [[files]]
+file = "resourcepacks/3d-enchanted-books.pw.toml"
+hash = "66eb107e5b3a117dc99c201544e9fb1e31d9eed0c39c822b4ec6d78809e76557"
+metafile = true
+
+[[files]]
 file = "resourcepacks/3d-harnesses-x-fresh-animations.pw.toml"
 hash = "669005dbb32780ba0b318b276b03664fa1840ca6431c7629f96945c2ce8dcf99"
 metafile = true
@@ -16635,6 +16640,11 @@ hash = "4246b461bacf459f994f6aebde9ae59576a5456183bf998ded04a46c1e34aa34"
 metafile = true
 
 [[files]]
+file = "resourcepacks/dreamy-clouds.pw.toml"
+hash = "0dfbdf503e622569fc46b1e10a47c6bfac2b7214fc88ae94d0e37013f41e315b"
+metafile = true
+
+[[files]]
 file = "resourcepacks/drigo-3d-lanterns-x-punchy.pw.toml"
 hash = "b76db6ae5b94ad509c10165373bd1e98220b4fd5bb838eddcad700a1bae5fea4"
 metafile = true
@@ -16660,6 +16670,11 @@ hash = "265ca5b3fd3f02b1845d9f07d3b4404fa2f8053627082e39dc8518414886b360"
 metafile = true
 
 [[files]]
+file = "resourcepacks/enhanced-flower-pots.pw.toml"
+hash = "e83a6ed6323cd551c5603aa44462c0dba2a588617ac0e7724d1b4a6ddac6d23c"
+metafile = true
+
+[[files]]
 file = "resourcepacks/enhanced-shulkers-x-fresh-animations.pw.toml"
 hash = "13bb8934deffbe5751763596341aa3ef5d47eef52db878938af1742e55226de2"
 metafile = true
@@ -16677,6 +16692,16 @@ metafile = true
 [[files]]
 file = "resourcepacks/fa-player-extension.pw.toml"
 hash = "b10943dd0c7472c8782d27e1239a851dfa41ee21608dff9207b84c0a81b56e20"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fancy-beds.pw.toml"
+hash = "602f123bdff3b0843472e60a673aab77c2e2cd82a09bd79865893fe299b648c2"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fogulous.pw.toml"
+hash = "714dde7262dc43ba00f52ddace2d61a877f58d435b77735056ce0c757c991c6f"
 metafile = true
 
 [[files]]
@@ -16727,6 +16752,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/fresh-music-discs.pw.toml"
 hash = "167326fb441ba20af15749b7880996ae5d2ad4e0f9f7ac1ebd8cc8d1cade8695"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-weapons-and-tools.pw.toml"
+hash = "fb2585124ae9f2b7f1b692531e58f8956ecbf43e7df6c92eff0ce17ab33e7442"
 metafile = true
 
 [[files]]
@@ -16785,6 +16815,11 @@ hash = "e2d2197d383dc7bdfba1225f36974d3ce4c7aaf4664b8383ba010d011440dd89"
 metafile = true
 
 [[files]]
+file = "resourcepacks/minecarts-with-wheels.pw.toml"
+hash = "a9a65fd4ab3970e817b5277d35a47813f70ecb1c7f4403c671e2492e545bf140"
+metafile = true
+
+[[files]]
 file = "resourcepacks/mobs-refreshed-plus-fresh-animations.pw.toml"
 hash = "600dfde643ec75722db3131049027d29fb724bb2357fc60e033774942939b71b"
 metafile = true
@@ -16810,6 +16845,11 @@ hash = "007ba812a87c592d544d802a364eae07dea97714af47adcbaf6af050e62582ad"
 metafile = true
 
 [[files]]
+file = "resourcepacks/recolourful-containers-gui.pw.toml"
+hash = "a7bb93f1051b25e4be582fa618f0c16571cb4892c10aafefc6bc1a23c20c694b"
+metafile = true
+
+[[files]]
 file = "resourcepacks/refined-buckets.pw.toml"
 hash = "96e1f49469e305dd51e0d58cd618c0ae2cdffc36a72ee5bee3231d56947614e6"
 metafile = true
@@ -16822,6 +16862,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/refined-torches.pw.toml"
 hash = "93224d8f3ca6f6c48bce218a75e7219a57b963102dee538047501ba4cb83731e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/sun-moon-fusion.pw.toml"
+hash = "63568fec13703be4f679fe4f7c0f87edb071c6e9c67e3e7d5a71fa745ec2ed39"
 metafile = true
 
 [[files]]
@@ -16842,6 +16887,16 @@ metafile = true
 [[files]]
 file = "resourcepacks/untitled-punchies.pw.toml"
 hash = "086b9275325a9a1fd6897d03ff42d54c5862bf6309d1e979e180c9662c058824"
+metafile = true
+
+[[files]]
+file = "resourcepacks/vvi.pw.toml"
+hash = "a073b5765abe8b28922b94675a4c83e05f7cf0e041fe1741c609cbb70169bedc"
+metafile = true
+
+[[files]]
+file = "resourcepacks/xp-orbs-reworked.pw.toml"
+hash = "b6b350c6c3d3dfb5e2073807acff2ea0d6de8fc292842a4a839e9374ecca23e7"
 metafile = true
 
 [[files]]
