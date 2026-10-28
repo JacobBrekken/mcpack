@@ -16660,13 +16660,48 @@ hash = "ad9ce28d1dc63c045135265a57c90480daadff82da4da9dc4c36ff732b8cf743"
 metafile = true
 
 [[files]]
+file = "resourcepacks/drodis-blazes-x-fresh-animations.pw.toml"
+hash = "cb8005393633f9fece3538f8af83db3ac23ceb9ca9b8752b0ff2d9f0260889d5"
+metafile = true
+
+[[files]]
+file = "resourcepacks/drodis-blazes.pw.toml"
+hash = "e84b66a869147991dd45b6bd83c35c2f847b80f8621ed96b021057a796297e03"
+metafile = true
+
+[[files]]
+file = "resourcepacks/drodis-illagers-fresh-animation.pw.toml"
+hash = "b2cbf0415745ea582c55f6342b867c25daff1c1e4d8635b1c7709d2014f85989"
+metafile = true
+
+[[files]]
+file = "resourcepacks/drodis-illagers.pw.toml"
+hash = "9509af756a358f17a74cae68550ecb898aab8ade27a160b4747be384d78a9674"
+metafile = true
+
+[[files]]
 file = "resourcepacks/drodis-shield.pw.toml"
 hash = "688c63624cee0cbfef31b89ebcdf6178691a08e70745e7751b44d7db059f8c80"
 metafile = true
 
 [[files]]
+file = "resourcepacks/drodis-slimes-x-fresh-animations.pw.toml"
+hash = "4ea6480d35674821f8388b57b39c834e78c68460ba9b88503b7022f7bbeb38d2"
+metafile = true
+
+[[files]]
+file = "resourcepacks/drodis-slimes.pw.toml"
+hash = "9a33935d17c4b395e4c6187de6047a9fff137347e71eb5ad47bed3f2383380f2"
+metafile = true
+
+[[files]]
 file = "resourcepacks/drodis-villagers-x-fa-10.3-patch.pw.toml"
 hash = "265ca5b3fd3f02b1845d9f07d3b4404fa2f8053627082e39dc8518414886b360"
+metafile = true
+
+[[files]]
+file = "resourcepacks/drodis-villagers.pw.toml"
+hash = "485d1c113f75b50205b640796000ebd9d5e3b8d5aa4536fda17267967507c721"
 metafile = true
 
 [[files]]

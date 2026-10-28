@@ -1,0 +1,13 @@
+name = "Drodi's Slimes x Fresh Animations"
+filename = "§4Drodi's Slimes FA [V1.1].zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8Gwg2mZJ/versions/Tk7ydGFo/%C2%A74Drodi%27s%20Slimes%20FA%20%5BV1.1%5D.zip"
+hash-format = "sha512"
+hash = "6a9f325e17567cda078aa2281d709683b3d85282cdb9b32afa5a0798d7f5739a29cffd5d44da499d4846291213d3de19698d9fad421a25aaccb4ba440c6d0c89"
+
+[update]
+[update.modrinth]
+mod-id = "8Gwg2mZJ"
+version = "Tk7ydGFo"
