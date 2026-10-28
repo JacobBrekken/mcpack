@@ -16865,6 +16865,11 @@ hash = "cb87667a58ec872950ea0c3abde8598f78961d85c17b0cdf7d12908073708769"
 metafile = true
 
 [[files]]
+file = "resourcepacks/p1kls-3d-items.pw.toml"
+hash = "fe34f521aea9015fbe8f81e8a750932d00233602df446911a624c7efedd49f6b"
+metafile = true
+
+[[files]]
 file = "resourcepacks/prettier-horses-x-fresh-animations.pw.toml"
 hash = "6e11c96769461af6e9df369cfeae43ea7bb72eb9e222cdb0aa0dc282d7a3bf9e"
 metafile = true
