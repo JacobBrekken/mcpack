@@ -1,0 +1,13 @@
+name = "Resource packs on, in the right order"
+filename = "options.txt"
+side = "client"
+
+[download]
+url = "https://jacobbrekken.github.io/mcpack/extras/load-order/options.txt"
+hash-format = "sha256"
+hash = "f582df4e2a0949310ed839fd6848da9a7025053e19bc0b1aa03e30f4260cad57"
+
+[option]
+optional = true
+default = false
+description = "Turns on all ~60 resource packs, already sorted, on your FIRST launch. Good PCs only. Has no effect if ticked after you've already played."

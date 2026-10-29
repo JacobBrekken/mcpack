@@ -6,7 +6,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "README.md"
-hash = "03dd21d562b89c2d17c89cb7ee3d60f489340639394cc043fa1faad000bd6e2f"
+hash = "f53598bc32b20247197836a27df666688ddc88ed3c87d33982c2a97d0867d2cc"
 
 [[files]]
 file = "bsl-shaders.pw.toml"
@@ -246,6 +246,11 @@ hash = "609821f1d2cb9525e96d4635509e4703f7f45cfc70b2f691839e318111d18db9"
 [[files]]
 file = "config/darkmodeeverywhere-client.toml"
 hash = "ba4463ba778efd6ed71aeb3e45d95090fd7ed174008147e31be3b00e0bab709a"
+
+[[files]]
+file = "config/defaultoptions/resource-pack-load-order.pw.toml"
+hash = "8d6241a1c10b01f1e3fc802fd1f48f2f4f2a5198dbc08f7cd84a2f849a4b7556"
+metafile = true
 
 [[files]]
 file = "config/enchdesc.json"

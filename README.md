@@ -78,7 +78,10 @@ During that first download you'll see a checklist of optional mods. These are pu
 nicer particles, 3D item models, animations, fancy grass. None of them change gameplay, and
 none affect whether you can join.
 
-- **On a good gaming PC:** tick whatever looks appealing.
+- **On a good gaming PC:** tick whatever looks appealing. The one called **"Resource packs on,
+  in the right order"** switches on all ~60 resource packs, already sorted, the first time you
+  launch — it's the easiest way to get the full look. It only works on a first install, so
+  decide now.
 - **On a laptop, integrated graphics, or anything older:** tick nothing. The game runs fine
   without them and you'll get noticeably better frames.
 
