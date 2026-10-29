@@ -6,7 +6,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "README.md"
-hash = "03dd21d562b89c2d17c89cb7ee3d60f489340639394cc043fa1faad000bd6e2f"
+hash = "5ab019040fd56d5864f48a48a479fd3c274dfe2e05a4cd996d90a00f93297e51"
 
 [[files]]
 file = "bsl-shaders.pw.toml"
@@ -246,6 +246,10 @@ hash = "609821f1d2cb9525e96d4635509e4703f7f45cfc70b2f691839e318111d18db9"
 [[files]]
 file = "config/darkmodeeverywhere-client.toml"
 hash = "ba4463ba778efd6ed71aeb3e45d95090fd7ed174008147e31be3b00e0bab709a"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "f582df4e2a0949310ed839fd6848da9a7025053e19bc0b1aa03e30f4260cad57"
 
 [[files]]
 file = "config/enchdesc.json"
@@ -14077,11 +14081,6 @@ metafile = true
 [[files]]
 file = "mods/atlas-api.pw.toml"
 hash = "8c6d5170ca4f3e42a3ff45ec2891a24fef98ab136f3e427fc34af23564d9e7dc"
-metafile = true
-
-[[files]]
-file = "mods/atmospherics.pw.toml"
-hash = "f12b246fef3275920f5fb335c3c592ac9406f6ee7c3ab2b38f430dafadd461f5"
 metafile = true
 
 [[files]]
