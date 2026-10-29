@@ -91,21 +91,18 @@ connection by unticking things here.
 
 ## Making it look good
 
-**Resource packs are on by default.** The pack ships about 60 of them — 3D items, Fresh
-Animations for mobs, nicer beds, torches, clouds and so on — already switched on and in the
-right order. You don't have to do anything.
+Shaders and resource packs ship with the pack but are **off by default**, so nobody gets an
+unexpected framerate hit. Turn them on only if your PC can take it.
 
-If your frames are bad, open Options → Resource Packs and move the heavier ones (anything
-"3D" or "Fresh Animations") from the right column to the left. Changes apply when you click
-Done.
-
-**Shaders** are off by default, so nobody gets an unexpected framerate hit. Turn them on in
-Options → Video Settings → Shader Packs. Pick one of the
+**Shaders** — Options → Video Settings → Shader Packs. Pick one of the
 **Complementary + EuphoriaPatches** entries (the patched ones, not the plain ones). Unbound is
 cinematic and realistic; Reimagined stays closer to vanilla's look.
 
 Shaders are expensive. If your frames tank, set it back to "None" in the same menu — nothing
 is permanent.
+
+**Resource packs** — Options → Resource Packs. Anything that came with the pack sits on the
+left; drag it to the right to enable it.
 
 None of this affects the server or other players. It's purely how the game looks on your screen.
 
@@ -117,7 +114,7 @@ None of this affects the server or other players. It's purely how the game looks
 | Download window errors on some files | Close Minecraft and launch again. It resumes and usually clears itself. |
 | "Too many changes to the modpack" warning | Normal. Tick *Don't show again*, click OK. |
 | Game crashes right after the loading bar | Screenshot the error window and post it in Discord. Don't delete the instance. |
-| Runs but the framerate is bad | Turn shaders off, move the "3D" and "Fresh Animations" resource packs to the left column, untick the optional visual mods, and lower render distance to 8 in Video Settings. |
+| Runs but the framerate is bad | Untick the optional visual mods, turn shaders off, lower render distance to 8 in Video Settings. |
 | "Connection refused" or a red X on the server | It's restarting. Wait two minutes and refresh. |
 | Out of memory / crash after playing a while | Prism → Edit Instance → Settings → Memory. Set maximum to 6144 MB if you have 16 GB of RAM. |
 
