@@ -14080,11 +14080,6 @@ hash = "8c6d5170ca4f3e42a3ff45ec2891a24fef98ab136f3e427fc34af23564d9e7dc"
 metafile = true
 
 [[files]]
-file = "mods/atmospherics.pw.toml"
-hash = "f12b246fef3275920f5fb335c3c592ac9406f6ee7c3ab2b38f430dafadd461f5"
-metafile = true
-
-[[files]]
 file = "mods/ato.pw.toml"
 hash = "2caa0a932f416d3a6d6dd2921840856395b56b04417292938ddb1796b72bf448"
 metafile = true
