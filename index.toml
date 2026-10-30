@@ -6,7 +6,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "README.md"
-hash = "03dd21d562b89c2d17c89cb7ee3d60f489340639394cc043fa1faad000bd6e2f"
+hash = "1fab4b665417da2d43b5d172833067e3b118bb614e1f49fdb1d35869d9ae7d10"
 
 [[files]]
 file = "bsl-shaders.pw.toml"
@@ -14270,11 +14270,6 @@ hash = "3a0f7208a7863c154b7dbc6418c4686a7e5956444d6f9b05d9a33b0393cbafef"
 metafile = true
 
 [[files]]
-file = "mods/clangor.pw.toml"
-hash = "10fc59c5345480d4f0a94354e1ed9cbcdd75915efb2126208be6212337479a26"
-metafile = true
-
-[[files]]
 file = "mods/clean-swing-through-grass.pw.toml"
 hash = "671a37a0359769efdf835bc190c566856e01b4ad131b692535d38bccacef7489"
 metafile = true
@@ -14540,11 +14535,6 @@ hash = "a35abc9918ab470587cb18f05a37918a921ec0ae59f1c256ebec3c20d819904e"
 metafile = true
 
 [[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "7f7ad9976965c694e2127399e8acda0c8fb8442be23272ea31a20daf2d41a687"
-metafile = true
-
-[[files]]
 file = "mods/domum-ornamentum.pw.toml"
 hash = "d46331e2fffde2c3c2a952575e61827fb67ecbc200a030649bf3e08ad637c049"
 metafile = true
@@ -14585,11 +14575,6 @@ hash = "ae6fd52d8bdcbeca5bbe6db840f22f92c1928fe0fda22017b19612b9b00a245a"
 metafile = true
 
 [[files]]
-file = "mods/dynamiccrosshair.pw.toml"
-hash = "937d4a596b15506722fd19d4b8dd314361f1e2ed6da4079746f6464e8a441029"
-metafile = true
-
-[[files]]
 file = "mods/dyson-cube-project.pw.toml"
 hash = "1c8bced0d438028749bdae28d96647825ff469ec9780fb269e0ee421012aec64"
 metafile = true
@@ -14602,11 +14587,6 @@ metafile = true
 [[files]]
 file = "mods/edivadlib.pw.toml"
 hash = "e2271f01117b2e3469832199b0830aacd678be821b4a4121fadd1805e0256195"
-metafile = true
-
-[[files]]
-file = "mods/enchanted-fishing-line.pw.toml"
-hash = "25299ef421b9033e1e6bb6fe71032e3692941fbbf9bab802d7130c55632a1d13"
 metafile = true
 
 [[files]]
@@ -14645,28 +14625,13 @@ hash = "019d7c110e2fcf7c908d4f58c7abd29ac2adbd20631fa63d77cb35d8dd6c2a45"
 metafile = true
 
 [[files]]
-file = "mods/entity-model-features.pw.toml"
-hash = "b5b7ed70211e25720af3623661c420205f5aafcace610909b906188c40a569a2"
-metafile = true
-
-[[files]]
 file = "mods/entity-pin-cushions.pw.toml"
 hash = "bd5853500d0afb5d7b66abb26788c2b4193448bcf3029f367dd63742e7603a5b"
 metafile = true
 
 [[files]]
-file = "mods/entity-player-compat.pw.toml"
-hash = "9f8ea0a0744502d4aa4c8f48c6e8e555a34f301dcbbdca3b1297ae879356eb0f"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "426238488c9ffd843f661f8bc74aa8e585fa6b4d342c43c4ba4cb8451298b725"
-metafile = true
-
-[[files]]
-file = "mods/entitytexturefeatures.pw.toml"
-hash = "876a5423cb25cd880165c199a4da600089208a1f83f80ce2bbc81eb95d32292b"
 metafile = true
 
 [[files]]
@@ -14952,11 +14917,6 @@ metafile = true
 [[files]]
 file = "mods/glodium.pw.toml"
 hash = "9aafdd83668c1b903caf0245b0bf2de3bb743befaa78d39e74a95c9933d624ac"
-metafile = true
-
-[[files]]
-file = "mods/grassier-grass.pw.toml"
-hash = "7c24e360e9986caa5460d020b52897f2a74567233b89d0e45126a0803b48ce54"
 metafile = true
 
 [[files]]
@@ -16185,11 +16145,6 @@ hash = "795add4311193a40605f4664f0f165630715d8498d199850c792fe5d09ce53c1"
 metafile = true
 
 [[files]]
-file = "mods/smooth-swapping.pw.toml"
-hash = "918f914f8dac568e9ed46713f867c45ed3059e5ecc8cbb304de9b6a76589ee0f"
-metafile = true
-
-[[files]]
 file = "mods/snow-imprints.pw.toml"
 hash = "5e263b6eedad21a622e270bb63255fc79bad7158f203fd023e6498d38ff979cd"
 metafile = true
@@ -16597,341 +16552,6 @@ metafile = true
 [[files]]
 file = "mods/zerocore.pw.toml"
 hash = "f60046584d023aaa0af0e8a1f3f021acb13121f2130f7c66b85e704da4d72643"
-metafile = true
-
-[[files]]
-file = "resourcepacks/3d-enchanted-books.pw.toml"
-hash = "66eb107e5b3a117dc99c201544e9fb1e31d9eed0c39c822b4ec6d78809e76557"
-metafile = true
-
-[[files]]
-file = "resourcepacks/3d-harnesses-x-fresh-animations.pw.toml"
-hash = "669005dbb32780ba0b318b276b03664fa1840ca6431c7629f96945c2ce8dcf99"
-metafile = true
-
-[[files]]
-file = "resourcepacks/3d-harnesses.pw.toml"
-hash = "a9cf5e70e5d48ce61232a1b9ee2951976676c002de9c9f0852c5a5bf48eaf972"
-metafile = true
-
-[[files]]
-file = "resourcepacks/artifacts-3d.pw.toml"
-hash = "aa77d1fe52ea796a51321d0926adcfbe7ba8a8d3729833c751fa91c11ce0efc8"
-metafile = true
-
-[[files]]
-file = "resourcepacks/bens-bundles.pw.toml"
-hash = "76c75f06b23056e1d1572759a05db19766412938e051f84cc128e05a17e2d2f9"
-metafile = true
-
-[[files]]
-file = "resourcepacks/brays-better-3d-bow.pw.toml"
-hash = "5cfb03b12add0aaa3444c6b82d6f8c9db4894bef80e7416f7abc19388a165b78"
-metafile = true
-
-[[files]]
-file = "resourcepacks/brays-llamas-with-hats.pw.toml"
-hash = "4246b461bacf459f994f6aebde9ae59576a5456183bf998ded04a46c1e34aa34"
-metafile = true
-
-[[files]]
-file = "resourcepacks/dreamy-clouds.pw.toml"
-hash = "0dfbdf503e622569fc46b1e10a47c6bfac2b7214fc88ae94d0e37013f41e315b"
-metafile = true
-
-[[files]]
-file = "resourcepacks/drigo-3d-lanterns-x-punchy.pw.toml"
-hash = "b76db6ae5b94ad509c10165373bd1e98220b4fd5bb838eddcad700a1bae5fea4"
-metafile = true
-
-[[files]]
-file = "resourcepacks/drodi-extendo-grip.pw.toml"
-hash = "9d9fbd742aad28a58c7311d449a5327ea9e2d2bff5ef7c694990ffcae68ca245"
-metafile = true
-
-[[files]]
-file = "resourcepacks/drodis-arsenal.pw.toml"
-hash = "ad9ce28d1dc63c045135265a57c90480daadff82da4da9dc4c36ff732b8cf743"
-metafile = true
-
-[[files]]
-file = "resourcepacks/drodis-blazes-x-fresh-animations.pw.toml"
-hash = "cb8005393633f9fece3538f8af83db3ac23ceb9ca9b8752b0ff2d9f0260889d5"
-metafile = true
-
-[[files]]
-file = "resourcepacks/drodis-blazes.pw.toml"
-hash = "e84b66a869147991dd45b6bd83c35c2f847b80f8621ed96b021057a796297e03"
-metafile = true
-
-[[files]]
-file = "resourcepacks/drodis-illagers-fresh-animation.pw.toml"
-hash = "b2cbf0415745ea582c55f6342b867c25daff1c1e4d8635b1c7709d2014f85989"
-metafile = true
-
-[[files]]
-file = "resourcepacks/drodis-illagers.pw.toml"
-hash = "9509af756a358f17a74cae68550ecb898aab8ade27a160b4747be384d78a9674"
-metafile = true
-
-[[files]]
-file = "resourcepacks/drodis-shield.pw.toml"
-hash = "688c63624cee0cbfef31b89ebcdf6178691a08e70745e7751b44d7db059f8c80"
-metafile = true
-
-[[files]]
-file = "resourcepacks/drodis-slimes-x-fresh-animations.pw.toml"
-hash = "4ea6480d35674821f8388b57b39c834e78c68460ba9b88503b7022f7bbeb38d2"
-metafile = true
-
-[[files]]
-file = "resourcepacks/drodis-slimes.pw.toml"
-hash = "9a33935d17c4b395e4c6187de6047a9fff137347e71eb5ad47bed3f2383380f2"
-metafile = true
-
-[[files]]
-file = "resourcepacks/drodis-villagers-x-fa-10.3-patch.pw.toml"
-hash = "265ca5b3fd3f02b1845d9f07d3b4404fa2f8053627082e39dc8518414886b360"
-metafile = true
-
-[[files]]
-file = "resourcepacks/drodis-villagers.pw.toml"
-hash = "485d1c113f75b50205b640796000ebd9d5e3b8d5aa4536fda17267967507c721"
-metafile = true
-
-[[files]]
-file = "resourcepacks/enhanced-flower-pots.pw.toml"
-hash = "e83a6ed6323cd551c5603aa44462c0dba2a588617ac0e7724d1b4a6ddac6d23c"
-metafile = true
-
-[[files]]
-file = "resourcepacks/enhanced-shulkers-x-fresh-animations.pw.toml"
-hash = "13bb8934deffbe5751763596341aa3ef5d47eef52db878938af1742e55226de2"
-metafile = true
-
-[[files]]
-file = "resourcepacks/enhanced-shulkerss.pw.toml"
-hash = "58697b084ae793d6d3c57b83c523f30b9cf80ee808b4fee926314fa2fd6a7cd5"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fa-player-extension-plusjust-expressions.pw.toml"
-hash = "dfe3745c348073333f5b245c2df48121af352765217e6c11fd1b6f02e341fcf5"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fa-player-extension.pw.toml"
-hash = "b10943dd0c7472c8782d27e1239a851dfa41ee21608dff9207b84c0a81b56e20"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fancy-beds.pw.toml"
-hash = "602f123bdff3b0843472e60a673aab77c2e2cd82a09bd79865893fe299b648c2"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fogulous.pw.toml"
-hash = "714dde7262dc43ba00f52ddace2d61a877f58d435b77735056ce0c757c991c6f"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fresh-animations-details.pw.toml"
-hash = "fb04a1326015ee6de9994567c6500343b62079324dafd44b8b346a8bc2a49ec3"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fresh-animations-emissive.pw.toml"
-hash = "e9b6c2451f8c6f0a767d826c7646c97e62778bf3852443d7f33044b54d547e6b"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fresh-animations-extensions.pw.toml"
-hash = "9fd64cf209789e2451d0d7707a4b87fe0c787e74eb31ce79ed94f4a30849c05d"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fresh-animations-objects.pw.toml"
-hash = "7db9ed4e604bca862bceb6e01426f024fc64d2766c18a9e1401269bda89bb38c"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fresh-animations-quivers.pw.toml"
-hash = "94abb56605bbc824a3605f911e2c71640925a2d1d358ed0cdfe850fc57fbccc7"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fresh-animations-spiders.pw.toml"
-hash = "621b736daf967878ac7272e8fc6941f964029916b74a2d15b7573453c607cb6d"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fresh-animations.pw.toml"
-hash = "9dc9b1568b6eaa48e16455e2a119566aa0e1c0e6f3e71099b97c535a73d0cd84"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fresh-food-punchy-fix.pw.toml"
-hash = "d72f88a2bfd11abb9df20adbd9f5d537db9f1576c70ab2ddc47e54aafc53d3c4"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fresh-food.pw.toml"
-hash = "994220e42be5e64f925c753c660ce9c7cbaf1d6059428fd7f664ce8feca659c5"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fresh-music-discs.pw.toml"
-hash = "167326fb441ba20af15749b7880996ae5d2ad4e0f9f7ac1ebd8cc8d1cade8695"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fresh-weapons-and-tools.pw.toml"
-hash = "fb2585124ae9f2b7f1b692531e58f8956ecbf43e7df6c92eff0ce17ab33e7442"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fyoncles-3d-trims.pw.toml"
-hash = "7c9ac03258e3cc2811c31c05ea0694c5f5ab818f082c8fc03a05cb6642349bec"
-metafile = true
-
-[[files]]
-file = "resourcepacks/glowing-trim-elytra.pw.toml"
-hash = "dd6a905a3642936e41a1e09c358e025ec4d500e0dcc023431d64dcd20a07a135"
-metafile = true
-
-[[files]]
-file = "resourcepacks/glowing-trim-shield.pw.toml"
-hash = "065f4ec8c2e24c083aa319453ab99b8a082e1c2ae1e6e22a8ec0f9ff55bce110"
-metafile = true
-
-[[files]]
-file = "resourcepacks/glowing-trim-totem.pw.toml"
-hash = "d2fa5c78ae5aa258e4b8d5330262eca5406be726d9533864ff9f71bb7cfd1f69"
-metafile = true
-
-[[files]]
-file = "resourcepacks/glowing-trims.pw.toml"
-hash = "93a91fd56205d0e120ea2e259a34bbc1d6b6a9e3786a327c6ac3508e4cb5109f"
-metafile = true
-
-[[files]]
-file = "resourcepacks/glowing-weapon-tools.pw.toml"
-hash = "1a274c456c840e005fd2c35afd95f4185f498d2667d65e4b8e9091f2044f40be"
-metafile = true
-
-[[files]]
-file = "resourcepacks/golems-refreshed-plus-fresh-animations.pw.toml"
-hash = "a6fb5fc208ac2355ed732a7a91df0101bfdfeb6cd76dc7486d8a6aaa72fc5bb4"
-metafile = true
-
-[[files]]
-file = "resourcepacks/golems-refreshed.pw.toml"
-hash = "10a53435e52c957ae08d0d144c9ddd8f52c150bd988de3abe47fd33da46a17c9"
-metafile = true
-
-[[files]]
-file = "resourcepacks/hyper-punchy.pw.toml"
-hash = "256ad012f8f0dfac102b46dae47d2cf14185b6a866578692f8f6e96b95364019"
-metafile = true
-
-[[files]]
-file = "resourcepacks/just-3d-potions-punchy-1.21-backport.pw.toml"
-hash = "021ae438967967d660eea8f341c81d3b59dd88d49769a1e68c4136bd42f4701d"
-metafile = true
-
-[[files]]
-file = "resourcepacks/mace-fusion.pw.toml"
-hash = "e2d2197d383dc7bdfba1225f36974d3ce4c7aaf4664b8383ba010d011440dd89"
-metafile = true
-
-[[files]]
-file = "resourcepacks/minecarts-with-wheels.pw.toml"
-hash = "a9a65fd4ab3970e817b5277d35a47813f70ecb1c7f4403c671e2492e545bf140"
-metafile = true
-
-[[files]]
-file = "resourcepacks/mobs-refreshed-plus-fresh-animations.pw.toml"
-hash = "600dfde643ec75722db3131049027d29fb724bb2357fc60e033774942939b71b"
-metafile = true
-
-[[files]]
-file = "resourcepacks/mobs-refreshed.pw.toml"
-hash = "cb87667a58ec872950ea0c3abde8598f78961d85c17b0cdf7d12908073708769"
-metafile = true
-
-[[files]]
-file = "resourcepacks/p1kls-3d-items.pw.toml"
-hash = "fe34f521aea9015fbe8f81e8a750932d00233602df446911a624c7efedd49f6b"
-metafile = true
-
-[[files]]
-file = "resourcepacks/prettier-horses-x-fresh-animations.pw.toml"
-hash = "6e11c96769461af6e9df369cfeae43ea7bb72eb9e222cdb0aa0dc282d7a3bf9e"
-metafile = true
-
-[[files]]
-file = "resourcepacks/prettier-horses.pw.toml"
-hash = "ef6db45056ea32119e5d86a682ee2e1c2fd72395579ced120a81e6a35401b445"
-metafile = true
-
-[[files]]
-file = "resourcepacks/punchy-compatibility.pw.toml"
-hash = "007ba812a87c592d544d802a364eae07dea97714af47adcbaf6af050e62582ad"
-metafile = true
-
-[[files]]
-file = "resourcepacks/recolourful-containers-gui.pw.toml"
-hash = "a7bb93f1051b25e4be582fa618f0c16571cb4892c10aafefc6bc1a23c20c694b"
-metafile = true
-
-[[files]]
-file = "resourcepacks/refined-buckets.pw.toml"
-hash = "96e1f49469e305dd51e0d58cd618c0ae2cdffc36a72ee5bee3231d56947614e6"
-metafile = true
-
-[[files]]
-file = "resourcepacks/refined-reate-buckets.pw.toml"
-hash = "59cb981d7fae1af5a5d54c3ddd809c8ae3dad219324dc0d7239ac9cc014d4a0b"
-metafile = true
-
-[[files]]
-file = "resourcepacks/refined-torches.pw.toml"
-hash = "93224d8f3ca6f6c48bce218a75e7219a57b963102dee538047501ba4cb83731e"
-metafile = true
-
-[[files]]
-file = "resourcepacks/sun-moon-fusion.pw.toml"
-hash = "63568fec13703be4f679fe4f7c0f87edb071c6e9c67e3e7d5a71fa745ec2ed39"
-metafile = true
-
-[[files]]
-file = "resourcepacks/tears-and-cheers.pw.toml"
-hash = "0f4cf6b37d81b1c7565425fede80af708a31c310a76452f1b8dd4afed92a9e45"
-metafile = true
-
-[[files]]
-file = "resourcepacks/trabens-3d-arrow-models.pw.toml"
-hash = "a65e4a763a55ac047d72a0bfd89cc39376b9d489e6f6a50c9444f48008f05701"
-metafile = true
-
-[[files]]
-file = "resourcepacks/trident-fusion.pw.toml"
-hash = "8ede1207456612088882b67e67266c4c6cb53eac4461d7af984e4a56cbe4adc4"
-metafile = true
-
-[[files]]
-file = "resourcepacks/untitled-punchies.pw.toml"
-hash = "086b9275325a9a1fd6897d03ff42d54c5862bf6309d1e979e180c9662c058824"
-metafile = true
-
-[[files]]
-file = "resourcepacks/vvi.pw.toml"
-hash = "a073b5765abe8b28922b94675a4c83e05f7cf0e041fe1741c609cbb70169bedc"
-metafile = true
-
-[[files]]
-file = "resourcepacks/xp-orbs-reworked.pw.toml"
-hash = "b6b350c6c3d3dfb5e2073807acff2ea0d6de8fc292842a4a839e9374ecca23e7"
 metafile = true
 
 [[files]]

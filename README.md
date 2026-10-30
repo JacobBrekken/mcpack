@@ -72,37 +72,20 @@ capitalisation matters — and he'll add you. Without it you'll get kicked with
 If the server shows a red X or "Connection refused," it's probably just restarting. It reboots
 itself once a day around 5am for backups. Wait a couple of minutes and refresh.
 
-## Optional mods
-
-During that first download you'll see a checklist of optional mods. These are purely visual —
-nicer particles, 3D item models, animations, fancy grass. None of them change gameplay, and
-none affect whether you can join.
-
-- **On a good gaming PC:** tick whatever looks appealing.
-- **On a laptop, integrated graphics, or anything older:** tick nothing. The game runs fine
-  without them and you'll get noticeably better frames.
-
-Unsure? Skip them all for now. You can turn them on later in Prism under
-**Edit Instance → Mods**, once you know how the game runs on your machine.
-
-The mods that actually matter — the ones that add content and keep you compatible with the
-server — are not optional and install automatically. You can't accidentally break your
-connection by unticking things here.
-
 ## Making it look good
 
-Shaders and resource packs ship with the pack but are **off by default**, so nobody gets an
-unexpected framerate hit. Turn them on only if your PC can take it.
-
-**Shaders** — Options → Video Settings → Shader Packs. Pick one of the
-**Complementary + EuphoriaPatches** entries (the patched ones, not the plain ones). Unbound is
-cinematic and realistic; Reimagined stays closer to vanilla's look.
+**Shaders** ship with the pack but are **off by default**, so nobody gets an unexpected
+framerate hit. Turn them on only if your PC can take it: Options → Video Settings → Shader
+Packs. Pick one of the **Complementary + EuphoriaPatches** entries (the patched ones, not the
+plain ones). Unbound is cinematic and realistic; Reimagined stays closer to vanilla's look.
 
 Shaders are expensive. If your frames tank, set it back to "None" in the same menu — nothing
 is permanent.
 
-**Resource packs** — Options → Resource Packs. Anything that came with the pack sits on the
-left; drag it to the right to enable it.
+**Resource packs** aren't included, but you can add your own: drop the `.zip` into the
+instance's `resourcepacks` folder (Prism → Edit Instance → Resource Packs → Add) and turn it on
+in Options → Resource Packs. Expect a long reload each time you change packs — the game reloads
+textures for every mod.
 
 None of this affects the server or other players. It's purely how the game looks on your screen.
 
@@ -114,7 +97,7 @@ None of this affects the server or other players. It's purely how the game looks
 | Download window errors on some files | Close Minecraft and launch again. It resumes and usually clears itself. |
 | "Too many changes to the modpack" warning | Normal. Tick *Don't show again*, click OK. |
 | Game crashes right after the loading bar | Screenshot the error window and post it in Discord. Don't delete the instance. |
-| Runs but the framerate is bad | Untick the optional visual mods, turn shaders off, lower render distance to 8 in Video Settings. |
+| Runs but the framerate is bad | Turn shaders off and lower render distance to 8 in Video Settings. |
 | "Connection refused" or a red X on the server | It's restarting. Wait two minutes and refresh. |
 | Out of memory / crash after playing a while | Prism → Edit Instance → Settings → Memory. Set maximum to 6144 MB if you have 16 GB of RAM. |
 
