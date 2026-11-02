@@ -82,7 +82,7 @@ none affect whether you can join.
 - **On a laptop, integrated graphics, or anything older:** tick nothing. The game runs fine
   without them and you'll get noticeably better frames.
 
-Unsure? Skip them all for now. You can turn them on later in Prism under
+**Read the description before you tick something** — a few of them change how the game behaves (one hides your crosshair, one animates items in menus). Unsure? Skip them all for now. You can turn them on later in Prism under
 **Edit Instance → Mods**, once you know how the game runs on your machine.
 
 The mods that actually matter — the ones that add content and keep you compatible with the

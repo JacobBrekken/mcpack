@@ -15,4 +15,4 @@ version = "hWKkBn3u"
 [option]
 optional = true
 default = false
-description = "Extra visual polish — costs some FPS."
+description = "Makes grass blocks look fuller and connected. Small FPS cost."

@@ -15,4 +15,4 @@ version = "U9RouuDv"
 [option]
 optional = true
 default = false
-description = "Extra visual polish — costs some FPS."
+description = "Adds new swing and hit sounds for weapons. Sound only, no FPS cost."

@@ -15,4 +15,4 @@ version = "RShcBQz5"
 [option]
 optional = true
 default = false
-description = "Extra visual polish — costs some FPS."
+description = "Hides your crosshair unless you're aiming at a block or mob. Skip it if a vanishing cursor would bug you."

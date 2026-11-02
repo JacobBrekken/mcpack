@@ -15,4 +15,4 @@ version = "8nAbeyES"
 [option]
 optional = true
 default = false
-description = "Extra visual polish — costs some FPS."
+description = "Your fishing line glows when the rod is enchanted. Tiny cosmetic."
