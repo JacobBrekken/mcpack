@@ -15,4 +15,4 @@ version = "CfQJbv1u"
 [option]
 optional = true
 default = false
-description = "Extra visual polish — costs some FPS."
+description = "Needed for animated-mob resource packs like Fresh Animations. Tick together with EMF. Moderate FPS cost."

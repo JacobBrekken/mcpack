@@ -6,7 +6,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "README.md"
-hash = "03dd21d562b89c2d17c89cb7ee3d60f489340639394cc043fa1faad000bd6e2f"
+hash = "ff47ee18fe368372d89c02c7c1e662a1164ef6828c8b44cf008fdfd76113630e"
 
 [[files]]
 file = "bsl-shaders.pw.toml"
@@ -14271,7 +14271,7 @@ metafile = true
 
 [[files]]
 file = "mods/clangor.pw.toml"
-hash = "10fc59c5345480d4f0a94354e1ed9cbcdd75915efb2126208be6212337479a26"
+hash = "5483aa66fb1415981cb94c13ac7ef0ff497ed042e7a5c34cafc8cb73d24ed288"
 metafile = true
 
 [[files]]
@@ -14541,7 +14541,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "7f7ad9976965c694e2127399e8acda0c8fb8442be23272ea31a20daf2d41a687"
+hash = "dd809432f0b8ec1bfea11cacc222ba8897711cff8888b7dc4a45beae5fc87c96"
 metafile = true
 
 [[files]]
@@ -14586,7 +14586,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamiccrosshair.pw.toml"
-hash = "937d4a596b15506722fd19d4b8dd314361f1e2ed6da4079746f6464e8a441029"
+hash = "4732520e761127f082585c067d1697c7e9e373d32206c34b4c646427a6857b13"
 metafile = true
 
 [[files]]
@@ -14606,7 +14606,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchanted-fishing-line.pw.toml"
-hash = "25299ef421b9033e1e6bb6fe71032e3692941fbbf9bab802d7130c55632a1d13"
+hash = "f64de2602db166c9fc7448cbd4098680164aa42eeb616b17ec04cadbc37ffd6f"
 metafile = true
 
 [[files]]
@@ -14646,7 +14646,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "b5b7ed70211e25720af3623661c420205f5aafcace610909b906188c40a569a2"
+hash = "5148a03e93ea6e8681c77329df29a589e82b48bb826d5d2ac05d04c28c11d0a5"
 metafile = true
 
 [[files]]
@@ -14666,7 +14666,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "876a5423cb25cd880165c199a4da600089208a1f83f80ce2bbc81eb95d32292b"
+hash = "37a3e0596621dda5835aaf86d3868ce2e55bad8a81f57baca1b67d98f697960e"
 metafile = true
 
 [[files]]
@@ -14956,7 +14956,7 @@ metafile = true
 
 [[files]]
 file = "mods/grassier-grass.pw.toml"
-hash = "7c24e360e9986caa5460d020b52897f2a74567233b89d0e45126a0803b48ce54"
+hash = "e76ab209aaa7f30801ad6c9d3010f327abec98ccd2ff66ca7dcd065eae1db0d0"
 metafile = true
 
 [[files]]
@@ -16186,7 +16186,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-swapping.pw.toml"
-hash = "918f914f8dac568e9ed46713f867c45ed3059e5ecc8cbb304de9b6a76589ee0f"
+hash = "f9557e1f9d321776cf5494b70cb7549bcfe0d59b888849d944ab2f11b0968c32"
 metafile = true
 
 [[files]]

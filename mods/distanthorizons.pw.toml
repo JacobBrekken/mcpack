@@ -15,4 +15,4 @@ version = "9w34y8ai"
 [option]
 optional = true
 default = false
-description = "Extra visual polish — costs some FPS."
+description = "See terrain for miles past your render distance. HEAVY: good PCs with 16 GB+ RAM only."

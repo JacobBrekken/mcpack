@@ -15,4 +15,4 @@ version = "tnvwgXE6"
 [option]
 optional = true
 default = false
-description = "Extra visual polish — costs some FPS."
+description = "Animates items sliding between slots when you move or craft things. Looks odd if you don't expect it."
