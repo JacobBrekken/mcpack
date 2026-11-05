@@ -63,7 +63,7 @@ multiplayerFightAdjuster = "NONE"
 	#Note that this only affects reversed crafting recipes, uncrafting recipes will still use the same cost as they normally would.
 	# Default: 1.0
 	# Range: 0.0 ~ 1.7976931348623157E308
-	uncraftingXpCostMultiplier = 1.0
+	uncraftingXpCostMultiplier = 3.0
 	#Multiplies the total XP cost of repairing an item and rounds up.
 	#Higher values means the recipe will cost more to repair, lower means less. Set to 0 to disable the cost altogether.
 	# Default: 1.0
@@ -80,7 +80,7 @@ multiplayerFightAdjuster = "NONE"
 	#Here, you can disable all items from certain mods from being uncrafted.
 	#Input a valid mod id to disable all uncrafting recipes from that mod.
 	#Example: "twilightforest" will disable all uncrafting recipes from this mod.
-	blacklistedUncraftingModIds = []
+	blacklistedUncraftingModIds = ["allthemodium", "allthetweaks", "allthearcanistgear", "allthewizardgear", "mekanism", "mekanismgenerators", "ae2", "megacells", "extendedae", "advanced_ae", "draconicevolution", "mysticalagriculture", "mysticalagradditions"]
 	#If true, this will invert the above option from a blacklist to a whitelist.
 	flipIdList = false
 	#If true, the uncrafting table will also be allowed to uncraft shapeless recipes.
@@ -89,15 +89,15 @@ multiplayerFightAdjuster = "NONE"
 	#If true, the uncrafting table will no longer allow you to switch between ingredients if a recipe uses a tag for crafting.
 	#This will remove the functionality for ALL RECIPES!
 	#If you want to prevent certain ingredients from showing up in the first place, use the "twilightforest:banned_uncrafting_ingredients" tag.
-	disableIngredientSwitching = false
+	disableIngredientSwitching = true
 	#Disables the uncrafting function of the uncrafting table. Recommended as a last resort if there's too many things to change about its behavior (or you're just lazy, I dont judge).
 	#Do note that special uncrafting recipes are not disabled as the mod relies on them for other things.
-	disableUncrafting = true
+	disableUncrafting = false
 	#Disables any usage of the uncrafting table, as well as prevents it from showing up in loot or crafted.
 	#Please note that table has more uses than just uncrafting, you can read about them here! http://benimatic.com/tfwiki/index.php?title=Uncrafting_Table
 	#It is highly recommended to keep the table enabled as the mod has special uncrafting exclusive recipes, but the option remains for people that dont want the table to be functional at all.
 	#If you are looking to just prevent normal crafting recipes from being reversed, consider using the 'disableUncrafting' option instead.
-	disableUncraftingTable = true
+	disableUncraftingTable = false
 
 #Settings for all things related to the magic trees.
 ["Magic Trees"]
