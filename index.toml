@@ -4585,7 +4585,7 @@ hash = "0dfe21240b34f2955ed1428632a7de1cc83f227f4f506b4c8fc3c25b4233a73a"
 
 [[files]]
 file = "config/twilightforest-common.toml"
-hash = "81e54e0f4f939ab77bc6c05f977735406f3fc8bd3930794e721b40e7da9d0b1e"
+hash = "7859568a4ff828d03ee4dffc07d2951692faec47b5d3cdd5cbcd60430c41b6ce"
 
 [[files]]
 file = "config/utilitarian-common.toml"
@@ -11609,7 +11609,7 @@ hash = "a84d3abc2c9ee0c72c09145f9ea3e8cd709d87afa9e12872dc11d68bd3e1c716"
 
 [[files]]
 file = "kubejs/client_scripts/RecipeViewer.js"
-hash = "196a11d6e84577a63fce42ec59917c69a85d99fdb84163534675953c99d8cf1b"
+hash = "c61b8208fd9b26fa3c414c13b00683a6047980af753df89a1189f32af8d89f9c"
 
 [[files]]
 file = "kubejs/client_scripts/crashing_items.js"
