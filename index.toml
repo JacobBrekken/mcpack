@@ -13740,6 +13740,10 @@ file = "kubejs/server_scripts/mods/rftools/Recipes.js"
 hash = "edc91c05fa9aea960d413b91fa27aeb7bdb6ec069ac43da6dc3015a0c70557be"
 
 [[files]]
+file = "kubejs/server_scripts/neon_city.js"
+hash = "5d7d93f1dc4b574212251f43570a91719971f5f6dc8fab6370b74984a3958e3f"
+
+[[files]]
 file = "kubejs/startup_scripts/Applied Energistics/Universal_Press.js"
 hash = "c896bf73c4bde5b6c5d2f5fb2a5129ee89ab320e7abdeebe159b5ed72c2bf350"
 
