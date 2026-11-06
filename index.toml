@@ -14150,6 +14150,11 @@ hash = "684f88a7736a22fd1b777f6e46a9ec1cf39121accffce9cb8cc8c8a3bd9d4fba"
 metafile = true
 
 [[files]]
+file = "mods/biolith.pw.toml"
+hash = "cc79b689faf345a5aa19ead3423726b6f87c267d686fb5807738e0cd20756679"
+metafile = true
+
+[[files]]
 file = "mods/blockui.pw.toml"
 hash = "0dc7230f27f24e0e64a36f5a26a6b430baaf6452a3c533bc7ae8e999f77b549b"
 metafile = true
