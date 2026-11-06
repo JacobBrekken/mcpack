@@ -4605,7 +4605,7 @@ hash = "fdf30f6174021100e2c34e5599f8ae6a9914a4b0e7413c162d75cdfaafb22bab"
 
 [[files]]
 file = "defaultconfigs/incontrol/spawn.json"
-hash = "b97e46a2d4bf6f2a01c16a9669727ccb0d90b7537dad230b778d1693a3a66e08"
+hash = "16c00fb3d7642dc821a44e0fd98ef6b8d3a35f3dfce8eedd0fbb493c02c9f326"
 
 [[files]]
 file = "defaultconfigs/justdirethings-common.toml"

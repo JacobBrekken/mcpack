@@ -1,5 +1,10 @@
 [
 	{
+        "mob": "alexsmobs:mimicube",
+        "onjoin": true,
+        "result": "deny"
+      },
+	{
         "mob": "minecraft:zombie",
         "mincount": 15,
         "result": "deny"
