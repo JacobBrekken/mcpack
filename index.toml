@@ -16963,6 +16963,11 @@ hash = "b6b350c6c3d3dfb5e2073807acff2ea0d6de8fc292842a4a839e9374ecca23e7"
 metafile = true
 
 [[files]]
+file = "resourcepacks/yuushya-16x.pw.toml"
+hash = "a9d1e0d6eaa67ac4d9247c3e5dccb4c493c3e800025b37614c44b5d282cac110"
+metafile = true
+
+[[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "507cb3963240110bc71ed7c75cac1682e66d3609536b0bc5ef90a01db3cce21f"
 metafile = true
