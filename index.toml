@@ -4356,6 +4356,11 @@ file = "config/nyctography.json"
 hash = "03628d836e10cdcc721a9daaca06a3e9141ca9a85d9daea0e4b93a0c9ee03c3a"
 
 [[files]]
+file = "config/openloader/packs/yuushya-16x.pw.toml"
+hash = "a9d1e0d6eaa67ac4d9247c3e5dccb4c493c3e800025b37614c44b5d282cac110"
+metafile = true
+
+[[files]]
 file = "config/oritech-client.toml"
 hash = "1052942f7b43695db6c5ff80283d17a65c38e12f0ea746842fb0b20671cfaefd"
 
@@ -16960,11 +16965,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/xp-orbs-reworked.pw.toml"
 hash = "b6b350c6c3d3dfb5e2073807acff2ea0d6de8fc292842a4a839e9374ecca23e7"
-metafile = true
-
-[[files]]
-file = "resourcepacks/yuushya-16x.pw.toml"
-hash = "a9d1e0d6eaa67ac4d9247c3e5dccb4c493c3e800025b37614c44b5d282cac110"
 metafile = true
 
 [[files]]
