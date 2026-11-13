@@ -13834,6 +13834,11 @@ hash = "b3b67f83faf9dcc4985b7a13fa8affb71062461d271f80cc0958652df9f3126b"
 metafile = true
 
 [[files]]
+file = "mods/abyssal-decor.pw.toml"
+hash = "79f1dccda05e3efc6104239a6988ad35e3d55c5c8e4e4f11a83ef0c9c67e48c9"
+metafile = true
+
+[[files]]
 file = "mods/accelerated-decay.pw.toml"
 hash = "0c31f109b6c4dca94a153fbdd827bbd5f96149fd5c7863ba0ba41fcab801afe0"
 metafile = true
@@ -14294,6 +14299,11 @@ hash = "2e6a2f8c477128a76ef059dfef7ca8a1befa2ae0ebe7ae2171e716f0c905cd00"
 metafile = true
 
 [[files]]
+file = "mods/cluttered.pw.toml"
+hash = "8ce281eba4d1ca849fe4ea1f6a336ab5b3698db75b198b172e067b16861e2a12"
+metafile = true
+
+[[files]]
 file = "mods/cobblegen-galore.pw.toml"
 hash = "8ee8facb80c02593751f4cb8eddd681868be2b725791ebf1c35060be4fa7efaa"
 metafile = true
@@ -14554,6 +14564,11 @@ hash = "9169b784e64161d5c22bd40565b1d176ca7518e37dd35fa3ef939f61b2834cc7"
 metafile = true
 
 [[files]]
+file = "mods/double-slabs.pw.toml"
+hash = "ce15fd9fbee6454db3774dda6b3a3978b05c17b29f4d6589105d731e4ca240d2"
+metafile = true
+
+[[files]]
 file = "mods/draconic-evolution.pw.toml"
 hash = "5b4d79435b6c6307cdcb141561b46a536fcf317a5661dbcafe33dfcde3cfe80f"
 metafile = true
@@ -14566,6 +14581,11 @@ metafile = true
 [[files]]
 file = "mods/dungeon-crawl.pw.toml"
 hash = "9f6b261565c185ab137b1f4ceceec488e4d6d262b14ef3349c4a88afdac958ae"
+metafile = true
+
+[[files]]
+file = "mods/dusty-decorations.pw.toml"
+hash = "d44f18d0f7639481073de0c2178d302b9c13259a0e6ef08de4c9642638c4644a"
 metafile = true
 
 [[files]]
@@ -14776,6 +14796,11 @@ metafile = true
 [[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "dff824171060c79b327a4880c2f0546c727a041a489ef3af643ec2dcd9cd0c48"
+metafile = true
+
+[[files]]
+file = "mods/fetzis-asian-decoration.pw.toml"
+hash = "39f9623bd6c3fade2912cd7cdeb8483c04aac9577c9ffe9cb753988a4196b2ae"
 metafile = true
 
 [[files]]
@@ -15541,6 +15566,11 @@ metafile = true
 [[files]]
 file = "mods/mo-structures.pw.toml"
 hash = "2a683828180acbfa4f889bbe0b373fecc172bd332923e4e8f436dd18a466abc5"
+metafile = true
+
+[[files]]
+file = "mods/moa-decor-cookery.pw.toml"
+hash = "3e839d1bec3ca751fa46ad2c6fc8a380aa0f0de00e74ddc1e63c303ca8c03877"
 metafile = true
 
 [[files]]
@@ -16581,6 +16611,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-extras-neoforge.pw.toml"
 hash = "cd321f6365bc3938e0671450aadcd40c8e03af5cb24d0a545fb07c890b4793ac"
+metafile = true
+
+[[files]]
+file = "mods/yuushya-townscape.pw.toml"
+hash = "1ea8fbf548993d8dc0b3f3855a90a9de75587f2196ac0d084ff3c0af08f8a873"
 metafile = true
 
 [[files]]
