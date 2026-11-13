@@ -1,0 +1,13 @@
+name = "Fetzi's Asian Decoration"
+filename = "fetzisasiandeco-neoforge-1.8.2.1-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Eg3hDPUB/versions/s19lhMuC/fetzisasiandeco-neoforge-1.8.2.1-1.21.1.jar"
+hash-format = "sha1"
+hash = "15cfc5afc480fa541c24bc32fb15fd49b7f26ecc"
+
+[update]
+[update.modrinth]
+mod-id = "Eg3hDPUB"
+version = "s19lhMuC"

@@ -1,0 +1,13 @@
+name = "MOA DECOR: COOKERY"
+filename = "MOAdecor COOKERY 1.21.1.B.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "602aae695f3dbf0bfa586daabc75d8a1cf8ca8b8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7072579
+project-id = 701502
